@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased,Rata-Rata_tinggi_badan
+France,44,72000,No,Pendek
+Spain,27,48000,Yes,Pendek
+Germany,30,54000,No,Tinggi
+Spain,38,61000,No,Pendek
+Germany,40,,Yes,Tinggi
+France,35,58000,Yes,Pendek
+Spain,,52000,No,Pendek
+France,48,79000,Yes,Pendek
+Germany,50,83000,No,Tinggi
+France,37,67000,Yes,Pendek
